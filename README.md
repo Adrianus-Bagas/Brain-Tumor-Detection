@@ -1,1 +1,3 @@
 # Brain-Tumor-Detection
+
+Tumor otak adalah penyakit yang timbul akibat tumbuhnya jaringan abnormal di otak. Tergantung pada jenisnya, tumor otak bisa bersifat jinak atau ganas. Munculnya tumor di otak bisa berasal dari jaringan otak itu sendiri (atau disebut tumor otak primer), bisa juga berasal dari kanker pada organ lain yang menyebar ke otak (tumor otak sekunder). Proyek ini akan membahas deteksi tumor otak berdasarkan citra MRI menggunakan metode VGG16, ResNet50V2, dan Xception untuk ekstraksi fitur serta Random Forest untuk klasifikasi. Data yang digunakan dapat diakses pada https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection
